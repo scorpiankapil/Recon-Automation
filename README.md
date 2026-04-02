@@ -1,9 +1,9 @@
 # crtsh_enum.sh
 
 ## 🔍 Overview
-crtsh_enum.sh is a subdomain enumeration script
-It uses Certificate Transparency logs from crt.sh
-Helps discover subdomains of a target domain automatically
+* crtsh_enum.sh is a subdomain enumeration script
+* It uses Certificate Transparency logs from crt.sh
+* Helps discover subdomains of a target domain automatically
 
 ## ⚙️ Features
 Takes user input (target domain & output file)
